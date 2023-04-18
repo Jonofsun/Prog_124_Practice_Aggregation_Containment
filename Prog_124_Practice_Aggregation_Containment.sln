@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog_124_Practice_Aggregation_Containment", "Prog_124_Practice_Aggregation_Containment.csproj", "{66749610-41AC-402A-9438-8375CDA42DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66749610-41AC-402A-9438-8375CDA42DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66749610-41AC-402A-9438-8375CDA42DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66749610-41AC-402A-9438-8375CDA42DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66749610-41AC-402A-9438-8375CDA42DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F4830AB-7137-46B8-8422-7FA4F57A09F9}
+	EndGlobalSection
+EndGlobal
